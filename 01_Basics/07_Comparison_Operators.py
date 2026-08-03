@@ -1,13 +1,11 @@
 """
 ==========================================================
 Program : Comparison Operators in Python
-Author  : Ayush Rawat
-Purpose : Demonstrate all Comparison Operators in Python
 ==========================================================
 """
 
 # Taking input from the user
-a = int(input("Enter First Number : "))
+a = int(input("Enter First Number  : "))
 b = int(input("Enter Second Number : "))
 
 print("\n========== COMPARISON OPERATORS ==========")
