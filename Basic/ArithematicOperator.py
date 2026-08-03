@@ -1,0 +1,6 @@
+x=int(input("Enter First Number : "))
+y=int(input("Enter second Number : "))
+print(f"Addition is       ~ {x+y}")
+print(f"Substraction is   ~ {x-y}")
+print(f"Multiplication is ~ {x*y}")
+print(f"Division is       ~ {x/y}")
