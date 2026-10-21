@@ -1,7 +1,7 @@
 import random
 low=int(input("Enter the Lower Limit ~ "))
 high=int(input("Enter the Higher Limit ~ "))
-tar=random.randint(low,high)
+tar=random.randint(low,10)
 attempts=1
 while True:
     a=int(input("Enter the Target ~ "))
