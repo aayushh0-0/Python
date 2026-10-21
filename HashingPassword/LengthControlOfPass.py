@@ -1,3 +1,5 @@
+"""Length of the Password Shall be Atleast 8 i.e. 8 Characters must be there in the Password"""
+
 import hashlib
 
 while True:

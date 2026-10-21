@@ -1,3 +1,6 @@
+"""Attempts ke according hee password will always be Checked and Verified by comparing it to HashCodes"""
+
+
 import hashlib
 pas=input("Create Password ~ ")
 print("Password Saved Successfully!! \n\n")
