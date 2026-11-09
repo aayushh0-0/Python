@@ -1,0 +1,8 @@
+# Take comma-separated words as input and convert them into a list
+s = input("Enter words ~ ").split(",")
+
+# Sort the original list alphabetically
+s.sort()
+
+# Join the sorted words using commas and display the result
+print(",".join(s))
